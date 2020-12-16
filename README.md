@@ -1,2 +1,2 @@
-# mocword-builder
-Mocword dataset builder toolkit
+# mocword-dataset-generator
+Mocword dataset generator toolkit
